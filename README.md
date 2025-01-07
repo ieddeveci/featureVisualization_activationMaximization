@@ -1,5 +1,4 @@
-# Feature Visualization via Activation Maximization
-Feature Visualization of Deep Neural Networks, Term Project, MMI727
+# Feature Visualization via Activation Maximization of Deep Neural Networks
 
 Feature visualization is a powerful technique for improving the interpretability of deep neural networks. Activation maximization is particularly popular for visualizing the learned features of a network unit. Through gradient ascent, this approach generates human-interpretable images that reveal what the neural network is effectively looking for in the input.
 
